@@ -1,5 +1,7 @@
 # Dedicated Server Setup Guide
 
+[Bezbro Games Discord](https://discord.gg/jaW3SK7)
+
 ## Requirements
 
 - Ability to port forward
