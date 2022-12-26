@@ -1,6 +1,7 @@
 # Multiplayer
 
 In SCP: Labrat, there are two different ways to play multiplayer with others
+
 - Relay Lobbies
 - Dedicated Servers
 
