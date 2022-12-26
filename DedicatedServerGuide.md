@@ -41,6 +41,31 @@ GameMode = Normal
 - Do not change the `GameMode` at this time.
 - This file is probably going to be changed to `json` in the future
 
+#### Regions
+
+- World
+- Africa
+- Asia
+- Australia
+- Canada
+- China
+- Europe
+- Germany
+- Japan
+- Mexico
+- Russia
+- UnitedKingdom
+- UnitedStates
+
+#### RegionDirections
+
+- None
+- Central
+- North
+- South
+- East
+- West
+
 ### Bans
 
 Example `bans.json` file
