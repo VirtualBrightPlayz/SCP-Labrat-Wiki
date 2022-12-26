@@ -1,1 +1,1 @@
-# SCP-Labrat-Wiki
+# SCP Labrat Wiki
